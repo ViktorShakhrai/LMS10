@@ -1,0 +1,36 @@
+
+[
+  {
+    "name": "Viktor",
+    "surname": "Shkhrai",
+    "city": "Chernivtsi",
+    "street": "Korsunska",
+    "phones":
+    {
+      "mobile":"+380952060053",
+      "home": null
+    }
+  },
+  {
+    "name": "Arina",
+    "surname": "Shakrai",
+    "city": "Chernivtsi",
+    "street": "Korsunska",
+    "phones":
+    {
+      "mobile":"+380952060054",
+      "home": null
+    }
+  },
+  {
+    "name": "Viktor",
+    "surname": "Shkh",
+    "city": "Chernivtsi",
+    "street": "Korsunska",
+    "phones":
+    {
+      "mobile":"+380952060053",
+      "home": null
+    }
+  }
+]
